@@ -2,12 +2,11 @@
 
 <h4 align="center">
 
-🚧 Code coming soon — stay tuned. This repository will host the official implementation. We are cleaning up the code and preparing release. ⭐ Star or Watch the repo to be notified when it lands.
+🚧 Code will be released soon.
 
 
 ## 📢 News
-- [2026/08/21] Our work is accepted by EMNLP 2026 Findings!
-- [2026/08/21] We have officially open-sourced the training scripts and codebase for GFT!
+- [2026/08/21] Our work is accepted by **EMNLP 2026 Findings**!
 
-## 📚 Citation
+## Citation
 TBD
