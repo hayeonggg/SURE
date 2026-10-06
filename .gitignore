@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+
+# model weights and training runs (hosted on the Hugging Face Hub)
+checkpoints/
+runs/
+logs/
+
+# evaluation outputs and external benchmark data
+outputs/
+SEEDA/
+
+# data generation inputs, caches, and intermediate outputs
+data/sources/
+data_generation/outputs/

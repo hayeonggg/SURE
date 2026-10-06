@@ -1,0 +1,14 @@
+# Scoring, training, and SEEDA meta-evaluation
+torch>=2.0
+transformers>=4.40
+peft>=0.10
+sentencepiece>=0.1.99
+protobuf
+numpy
+huggingface_hub
+
+# Preference data generation only (data_generation/)
+errant>=3.0.0
+spacy>=3.7
+openai>=1.40
+anthropic>=0.40
