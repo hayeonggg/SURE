@@ -5,8 +5,6 @@
 
 📢 **[Sep 2026]** SURE was accepted to **Findings of EMNLP 2026**.
 
-Official implementation of **"Don't Count the Edits, Judge by the Outcome Alone: Reward-Based Evaluation for Grammatical Error Correction"**.
-
 - SURE (**S**ource-conditioned **U**nified **R**eward-based **E**valuator) is a reference-free metric for grammatical error correction (GEC). Given only a source sentence and a candidate correction, it predicts an overall reward together with criteria-level scores for grammaticality, faithfulness, and fluency.
 
 - SURE is trained on within-source preferences that span minimal-edit and rewrite-oriented corrections, so it does not penalize a valid rewrite for differing from a gold reference. On the SEEDA meta-evaluation benchmark it performs competitively against strong reference-based and reference-free baselines, with the largest gains on fluent, rewrite-style corrections.
