@@ -1,4 +1,4 @@
-# SURE
+# Don’t Count the Edits, Judge by the Outcome Alone: Reward-Based Evaluation for Grammatical Error Correction
 
 [![Paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://arxiv.org/abs/2609.15559)
 [![Model](https://img.shields.io/badge/HuggingFace-Model-FF9D00)](https://huggingface.co/hayeonggg/SURE)
