@@ -2,7 +2,6 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arxiv-b31b1b)](https://arxiv.org/abs/2609.15559)
 [![Model](https://img.shields.io/badge/HuggingFace-Model-FF9D00)](https://huggingface.co/hayeonggg/SURE)
-[![Dataset](https://img.shields.io/badge/Dataset-2%2C400%20pairs-blue)](data/sure_preference_pairs.json)
 
 📢 **[Sep 2026]** SURE was accepted to **Findings of EMNLP 2026**.
 
